@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://www.sladewatkinsmedia.com</loc>
-	<lastmod>2023-03-16</lastmod>
+	<lastmod>2023-04-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -72,7 +72,7 @@
 </url>
 <url>
 	<loc>https://www.sladewatkinsmedia.com/swm-wallymer/</loc>
-	<lastmod>2023-03-16</lastmod>
+	<lastmod>2023-04-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -81,28 +81,6 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://www.sladewatkinsmedia.com/img/SWMWallymerHorizontalBlackM.webp</image:loc>
-	<image:title>SWM</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.sladewatkinsmedia.com/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.sladewatkinsmedia.com/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://www.sladewatkinsmedia.com/templates/</loc>
-	<lastmod>2023-03-16</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://www.sladewatkinsmedia.com/img/facebook.png</image:loc>
-	<image:title>SWM</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://www.sladewatkinsmedia.com/img/facebook.webp</image:loc>
 	<image:title>SWM</image:title>
 	</image:image>
 	<image:image>
